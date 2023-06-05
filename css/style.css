@@ -1,3 +1,10 @@
+@import url('type-button-default.css');
+@import url('type-button-hover.css');
+@import url('type-button-focus.css');
+@import url('type-button-disabled.css');
+@import url('type-button-loading.css');
+@import url('type-button-movable.css');
+
 * {
   margin: 0;
   padding: 0;
@@ -64,7 +71,6 @@ table {
 }
 
 .title-type-button {
- 
   height: 65px;
   background-color: #1C162C;
 }
