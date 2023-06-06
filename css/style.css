@@ -58,6 +58,8 @@ aside {
 }
 
 table {
+  text-transform: uppercase;
+
   width: 958px;
   height: 576px;
   border-spacing: 0;
@@ -69,10 +71,12 @@ table {
 .type-button {
   width: 96px;
   height: 48px;
+  font-size: 11px;
   background-color: #1C162C;
 }
 
 .title-type-button {
   height: 65px;
+  font-size: 11px;
   background-color: #1C162C;
 }
