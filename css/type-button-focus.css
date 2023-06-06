@@ -11,14 +11,20 @@
 .button-focus-primary {
   width: 176px;
   background-color: #8257E5;
+  outline: none;
+  border: 2px solid #D9CDF7;
 }
 
 .button-focus-secondary {
   width: 187px;
   background-color: #3C3748;
+  outline: none;
+  border: 2px solid #D9CDF7;
 }
 
 .button-focus-tertiary {
   width: 168px;
   background-color: #1e1e1e;
+  outline: none;
+  border: 2px solid #D9CDF7;
 }
