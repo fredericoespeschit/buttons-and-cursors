@@ -1,8 +1,21 @@
 .type-button-loading {
-  width: 176px;
+
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
   background-color: #8257E5;
+}
+
+.button-loading-primary{
+  width: 176px;
+  background-color: #8257E5;
+}
+.button-loading-secondary{
+  width: 225px;
+  background-color: #3C3748;
+}
+.button-loading-tertiary{
+  width: 206px;
+  background-color: #1e1e1e;
 }

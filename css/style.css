@@ -58,6 +58,8 @@ aside {
 }
 
 table {
+  width: 958px;
+  height: 576px;
   border-spacing: 0;
   text-align: left;
   border: 8px solid #1C162C;

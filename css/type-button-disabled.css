@@ -1,8 +1,23 @@
 .type-button-disabled {
-  width: 176px;
+
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
+
+}
+
+.button-disabled-primary {
+  width: 183px;
   background-color: #8257E5;
+}
+
+.button-disabled-secondary {
+  width: 207px;
+background-color: #3C3748;
+}
+
+.button-disabled-tertiary {
+  width: 188px;
+  background-color: #1e1e1e;
 }

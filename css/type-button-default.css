@@ -1,8 +1,21 @@
 .type-button-default {
-  width: 176px;
+  
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
+
+}
+.button-default-primary {
+  width: 176px;
   background-color: #8257E5;
+}
+.button-default-secondary {
+  width: 200px;
+  background-color: #3C3748;
+}
+
+.button-default-tertiary {
+  width: 181px;
+  background-color: #1e1e1e;
 }

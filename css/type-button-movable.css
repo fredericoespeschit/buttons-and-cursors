@@ -1,8 +1,21 @@
 .type-button-movable {
-  width: 176px;
+
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
   background-color: #8257E5;
+}
+
+.button-movable-primary{
+  width: 176px;
+  background-color: #8257E5;
+}
+.button-movable-secondary{
+  width: 238px;
+  background-color: #3C3748;
+}
+.button-movable-tertiary{
+  width: 219px;
+  background-color: #1e1e1e;
 }

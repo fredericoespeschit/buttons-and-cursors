@@ -1,8 +1,23 @@
 .type-button-hover {
-  width: 176px;
+  width: 162px;
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
+
+}
+
+.button-hover-primary {
+  width: 162px;
   background-color: #9674E5;
+}
+
+.button-hover-secondary {
+  width: 187px;
+  background-color: #6A617F;
+}
+
+.button-hover-tertiary {
+  width: 168px;
+  background-color: #1e1e1e;
 }
