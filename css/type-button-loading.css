@@ -1,10 +1,8 @@
 .type-button-loading {
-
   height: 48px;
   text-transform: uppercase;
   border-radius: 30px;
   border-style: none;
-  background-color: #8257E5;
 }
 
 .button-loading-primary{
@@ -19,4 +17,11 @@
 .button-loading-tertiary{
   width: 206px;
   background-color: #1e1e1e;
+}
+
+
+.button-loading-primary img,
+.button-loading-secondary img,
+.button-loading-tertiary img {
+  vertical-align: middle;
 }

@@ -21,8 +21,6 @@
   align-items: stretch;
 }
 
-
-
 h1 {
   font-style: normal;
   font-weight: 700;
@@ -42,10 +40,9 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-content: center;
-  background-color: #1E1E1E;
+  align-items: center;
+  background-color: #0B0911;
   padding: 40px;
-
 }
 
 aside {
@@ -58,8 +55,8 @@ aside {
 }
 
 table {
+  
   text-transform: uppercase;
-
   width: 958px;
   height: 576px;
   border-spacing: 0;
